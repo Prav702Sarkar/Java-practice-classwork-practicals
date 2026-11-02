@@ -1,4 +1,5 @@
-// Program 7: Write a Java program using a switch statement that takes a month number from the user and displays the corresponding month. If the user enters an invalid month number, display "Invalid Month".
+// Program 7: Write a Java program using a switch statement that takes a month number from 
+// the user and displays the corresponding month. If the user enters an invalid month number, display "Invalid Month".
 
 import java.util.Scanner;
 

@@ -1,4 +1,5 @@
-// Program 9: Write a Java program using a while loop to repeatedly ask the user for a password until the correct password is entered.
+// Program 9: Write a Java program using a while loop to repeatedly ask the 
+// user for a password until the correct password is entered.
 
 import java.util.Scanner;
 

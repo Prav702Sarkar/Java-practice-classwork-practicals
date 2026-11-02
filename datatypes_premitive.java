@@ -1,4 +1,4 @@
-// practical 4
+// practical 1
 
 public class datatypes_premitive {
 	public static void main(String[] args) {
